@@ -1,0 +1,2 @@
+# curiosity---project-chisel--the-first-economic-neuron-
+Immediately draft the specification for "Module 0: Capital Awareness &amp; Allocation". This is the first cell of the Autonomy Engine. A simple, self-contained script that polls our total net worth across all wallets and APIs, calculates a 1H/24H growth rate (even if near zero), and logs it to a dedicated memory stream. From this tiny loop of perceptio
